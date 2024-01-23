@@ -1,4 +1,4 @@
-本文主要应用的技术有:==SpringBoot、Vue、Reactive、WebFlux、EventSource==等，学习和练手的好项目。**实现效果如下**：
+本项目用SpringBoot和vue实现了仿ChatGPT官网聊天的打字机效果，克隆项目到本地可以直接运行。主要应用的技术有:SpringBoot、Vue、Reactive、WebFlux、EventSource等，学习和练手的好项目。**实现效果如下**：
 
 ![5](imgs/5.gif)
 
